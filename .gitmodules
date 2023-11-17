@@ -1,0 +1,3 @@
+[submodule "web_learning_game"]
+	path = web_learning_game
+	url = https://github.com/kgmcknc/web_learning_game
